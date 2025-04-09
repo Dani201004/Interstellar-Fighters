@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0c430b26d7147654c958fca28a9cbbfe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Arcade Nightmare
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ab49790e12f25d549aff5c146d3a75ce, type: 3}
+  - {fileID: 12800000, guid: a22744975487fbe43beb087eddb79bc1, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
